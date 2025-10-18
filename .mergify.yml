@@ -35,4 +35,5 @@ pull_request_rules:
         teams:
           - TEAM_NAME_HERE
 priority_rules: []
-queue_rules: []
+queue_rules:
+  - name: Future prospects
